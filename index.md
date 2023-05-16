@@ -2,122 +2,25 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+![Visual Cortex to Artificial Networks](Figure_1.drawio.png)
 
-[Link to another page](./another-page.html).
+<h2 style="text-align: center;">Abstract</h2>
+<p style="text-align: justify">Understanding the neural transformation of visual perception is a fundamental challenge in neuroscience, and one that has the potential to revolutionize AI model design. In this study, we present a novel embedding manifold to map the neural representations for natural image stimuli in the mouse visual cortex to the text embeddings, using state-of-the-art multimodal language models. Specifically, we processed anatomical and functional neural responses from various sub-regions of the mouse visual cortex and presented the same natural image stimuli to a range of image-to-text models and learned a mapping from the corresponding text embeddings to neural representations. Our results show a strong relationship between text and neural embeddings in the latent space, resulting in a text representation of neural language. To further test the decoding capacity of our neural language, we feed the encoded text-to-neural representations to a variety of state-of-the-art text-to-image models, such as Stable Diffusion, and observe a powerful regeneration of visual representations, capturing the key visual features presented as input stimuli to the mouse visual cortex. The performance of the reconstruction from the text-to-image models is proportional to the neural language encoding capacity of image-to-text models and shows a similar map of neural activations in the mouse visual cortex. This study is the first of its kind to introduce a language of mouse visual cortex neurons encoded through generative AI models, and has significant implications for both AI and neuroscience. By mapping neural representations for a given image to a text embedding space, we gain insights into the underlying structure of visual information processing in mouse as well as its functional similarity with the multimodal language models. We believe this approach has several potential applications in understanding the information processing in the mouse brain and building the next generation of AI models.</p>
 
-There should be whitespace between paragraphs.
+<h2 style="text-align: center;">Figure 2</h2>
+<p style="text-align: justify">[DEMO video goes here]</p>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![FIGURE 1](https://raw.githubusercontent.com/neurnai/neurnai.github.io/blob/main/thumbnail.png)
+<h2 style="text-align: center;">Method and Results</h2>
 
 
-### Definition lists can be used with HTML syntax.
+![grand_figure](assets/images/grand_figure.PNG)
+<h2 style="text-align: center">Figure 3</h3>
+<p style="text-align: justify">[Description goes here]</p>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+![clusters](assets/images/clusters.PNG)
+<h2 style="text-align: center">Figure 4</h3>
+<p style="text-align: justify">[Description goes here]</p>
 
-```
-The final element.
-```
+
+<!-- <script type="text/javascript" src="https://viewer.diagrams.net/js/viewer-static.min.js"></script> -->

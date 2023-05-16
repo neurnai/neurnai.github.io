@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://raw.githubusercontent.com/neurnai/neurnai.github.io/blob/main/thumbnail.png)
 
 
 ### Definition lists can be used with HTML syntax.

@@ -16,7 +16,7 @@ layout: default
 
 
 <h2 style="text-align: center">Figure 4</h2>
-![Our Results](Figure_4_compact_2.png)
+![Our Results](docs/Figure_4_compact_2.png)
 <p style="text-align: justify">[Description goes here]</p>
 
 

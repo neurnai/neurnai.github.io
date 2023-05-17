@@ -8,15 +8,14 @@ layout: default
 <p style="text-align: justify">[Insert Short Intro]</p>
 
 <h2 style="text-align: center;">Figure 2</h2>
+![Methods](Methods_NeurAI_crop.pdf)
 <p style="text-align: justify">[Description goes here]</p>
-
 
 <h2 style="text-align: center">Figure 3</h2>
 <p style="text-align: justify">[Description goes here]</p>
 
 
 <h2 style="text-align: center">Figure 4</h2>
-![Our Results](docs/Figure_4_compact_2.png)
 <p style="text-align: justify">[Description goes here]</p>
 
 

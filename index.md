@@ -2,9 +2,10 @@
 layout: default
 ---
 
-
-
 <h2 style="text-align: center;">Introduction</h2>
+<p style="text-align: justify">This study explores the intriguing similarities between the mouse visual cortex and deep learning models, particularly in object classification tasks. By introducing a novel Neural Response Normalization (NeuRN) layer inspired by specific types of excitatory biological neurons, we have enhanced the resemblance between neural and artificial systems. This modification not only improves the similarity between the mouse visual cortex and deep learning models but also significantly bolsters performance in domain generalization tasks. The findings offer valuable insights for the development of advanced, neuro-inspired AI models, with potential widespread implications for real-world tasks.</p>
+
+<h2 style="text-align: center;">Figure 1</h2>
 ![Visual Cortex to Artificial Networks](Figure_1.drawio.png)
 <p style="text-align: justify">Block diagram architecture of comparison framework: Image stimuli is presented to mice and DNN models (Step 1) and their corresponding feature (Step 2) and neural representations (Step 3) are computed and compared (Step 4).</p>
 

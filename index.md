@@ -23,8 +23,12 @@ layout: default
 <p style="text-align: justify">DNNs' architectural similarity: The confusion matrix on the left shows the correlation similarity of 44 DNN architectures with purple as the lowest and skin as the highest correlation. The zoom version of three similar architectures (VGG11, VGG16 and VGG19) are displayed with the highlighted layer difference between VGG16 and VGG11 as ReLU and Conv between VGG16 and VGG19. The bottom matrices show the Needleman-Wunsch algorithm applied on these architectures and how the traceback matrix was used to calculate similarity index.</p>
 
 <h2 style="text-align: center">Population & Neuron Level Analysis</h2>
-![Architectural Similarity](Figure_5.drawio.png)
+![Analysis](Figure_5.drawio.png)
 <p style="text-align: justify">(a) RMSE scores of comparing feature representations with neural representations across MVC brain regions for all the shortlisted DNN architectures, (b) shows the similar focused across neural sub-types: excitatory and inhibitory neural genotypes. The comparison between NeuRN and non-NeuRN architectures are shown in (c) with diagonal line defining the winning models for their neural compatibility. In (d), comparison of neural representations and DNN activations is mapped for both NeuRN and non-NeuRN DNN architectures, showing the activation curves of randomly sampled units in (e).</p>
+
+<h2 style="text-align: center">NeuRN</h2>
+![NeuRN](NeuRN.drawio.png)
+<p style="text-align: justify">Comparison of original and NeuRN-enhanced images across four handwritten digit datasets. For each dataset, the top row presents samples from the original dataset, while the bottom row showcases the NeuRN-enhanced versions.</p>
 
 
 <h2 style="text-align: center">Summary</h2>

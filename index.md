@@ -27,7 +27,7 @@ layout: default
 <p style="text-align: justify">(a) RMSE scores of comparing feature representations with neural representations across MVC brain regions for all the shortlisted DNN architectures, (b) shows the similar focused across neural sub-types: excitatory and inhibitory neural genotypes. The comparison between NeuRN and non-NeuRN architectures are shown in (c) with diagonal line defining the winning models for their neural compatibility. In (d), comparison of neural representations and DNN activations is mapped for both NeuRN and non-NeuRN DNN architectures, showing the activation curves of randomly sampled units in (e).</p>
 
 <h2 style="text-align: center">NeuRN</h2>
-![NeuRN](NeuRN.drawio.png)
+![NeuRN](NeuRN.drawio.pdf)
 <p style="text-align: justify">Comparison of original and NeuRN-enhanced images across four handwritten digit datasets. For each dataset, the top row presents samples from the original dataset, while the bottom row showcases the NeuRN-enhanced versions.</p>
 
 

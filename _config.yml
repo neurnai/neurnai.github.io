@@ -1,5 +1,7 @@
 title: Neural Representational Similarity Reveals Alignment Across Mouse Visual Cortex and Deep Neural Networks for Domain Generalization
-description: Ahmed Qazi, Hamd Jalil, Asim Iqbal
+description: Ahmed Qazi*, Hamd Jalil*, Asim Iqbal†*
+* indicates equal contribution.
+† indicates corresponding author.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
